@@ -4,7 +4,7 @@ I'm Martin Leo, a newly minted developer from Sweden.
 I've been working with a few different languages over the last couple of years, such as Javascript/Typescript, Go and Java. So far Go is my preferred language. 
 
 ### Here is some stuff I've built:
-- [WoWTracker](https://github.com/Leo-Mart/Exam-Goth-Stack)
+- [WoWTracker](https://github.com/Leo-Mart/WoWTracker)
 - [Portfolio-site](https://github.com/Leo-Mart/NextJS_Portfolio)
 - [WordGuess](https://github.com/Leo-Mart/WordGuess)
 
