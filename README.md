@@ -9,7 +9,7 @@ I've been working with a few different languages over the last couple of years, 
 - [WordGuess](https://github.com/Leo-Mart/WordGuess)
 
 ### And I am currently doing:
-- I'm currently learning more about Go, Python, backend-development, and more through [Boot.dev](https://www.boot.dev/)
+- I'm currently learning more about Go, Python, backend-development, and more through [Boot.dev](https://www.boot.dev/) whilst also building my next project: [GestureTimer](https://github.com/Leo-Mart/GestureTimer)
 
 
 
