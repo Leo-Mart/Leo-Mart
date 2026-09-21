@@ -9,5 +9,5 @@ I've been working with a few different languages over the last couple of years, 
 
 ### And I am currently doing:
 - Learning C#/.NET
-- A larger E-commerce application in C#/.NET and SolidJS [Bookstore](https://github.com/Leo-Mart/BookStore_C_Sharp_SolidJS)
+- Building a larger E-commerce application in C#/.NET and SolidJS [Bookstore](https://github.com/Leo-Mart/BookStore_C_Sharp_SolidJS)
 
